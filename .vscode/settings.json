@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.port": 5502,
+    "git.enableCommitSigning": true,
+    "git.decorations.enabled": false,
+    "git.branchRandomName.enable": true,
+    "git.allowForcePush": true
+  }
